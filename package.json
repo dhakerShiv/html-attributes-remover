@@ -1,0 +1,28 @@
+{
+  "name": "html-attributes-remover",
+  "version": "1.0.4",
+  "description": "Remove html attributes like css classes, inline css, id from html",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhakerShiv/html-attributes-remover.git"
+  },
+  "keywords": [
+    "html",
+    "attribute",
+    "remover",
+    "website"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dhakerShiv",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "bugs": {
+    "url": "https://github.com/dhakerShiv/html-attributes-remover/issues"
+  },
+  "homepage": "https://github.com/dhakerShiv/html-attributes-remover#readme",
+}
